@@ -1,7 +1,6 @@
 function shout(string)
 {
-  string="a"
-  return string.toUpperCase()
+  return "hello".toUpperCase()
 }
 function whisper(string){return "hello"
   
@@ -14,7 +13,7 @@ function logWhisper(string){console.log("hello")
 }
 
 function sayHiToGrandma(string){
-  if sting
+  if 
   
 return "I can't hear you!"
 
